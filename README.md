@@ -1,4 +1,4 @@
-![libraryimage](https://github.com/user-attachments/assets/7bd045d0-e582-4268-88da-5e13c3ca4e7f)## Project Overview
+## Project Overview
 
 **Project Title**: Library Management System  
 **Level**: Intermediate  
@@ -6,7 +6,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](/home/user/libraryimage.jpg)
+![libraryimage](https://github.com/user-attachments/assets/7bd045d0-e582-4268-88da-5e13c3ca4e7f)
 
 ## Objectives
 
